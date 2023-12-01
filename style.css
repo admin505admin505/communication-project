@@ -6,3 +6,9 @@ main{
 body{
   background-color:black;
 }
+
+img{
+  text-align:center;
+  hight:100%;
+  width:100%;
+}
