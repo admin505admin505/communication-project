@@ -18,6 +18,10 @@ header{
   font-size:30px;
 }
 
+p{
+  color:lime;
+  font-size:30;
+}
 h1{
   color:lime;
   text-align:center;
