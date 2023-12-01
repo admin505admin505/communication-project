@@ -6,3 +6,8 @@ body{
 img{
   text-align:center;
 }
+
+li{
+  color:cyan;
+  font-size:20px;
+}
