@@ -7,6 +7,11 @@ img{
   text-align:center;
 }
 
+h2{
+  color:red;
+  font-size:10px;
+}
+
 ui{
   color:cyan;
   font-size:20px;
@@ -28,7 +33,4 @@ h1{
   font-size:30px;
 }
 
-h2{
-  color:red;
-  font-size:10px;
-}
+
